@@ -2,10 +2,11 @@
 <p align=center>Olá tudo certo? Neste repositorio tera tudo sobre a materia  <br>de engenharia para programação, como exercicios, e aprendizado tudo  <br>documentado da sua devida forma.</p><p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
+![](https://github.com/Bielfer12/Programacao_engenharia/blob/main/programação_engenharia/img/gif_python.gif)
 
 <h1>Linguagens Usadas ✌</h1>
 <ul>
- <li>Python</li> 
+ <li>Python 🐍</li> 
  </ul>
  <h1>Ferramentas usadas 🔨</h1>
  <ul>
